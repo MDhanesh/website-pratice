@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(176, 216, 15);
+
+}
+.fa{
+    color: rgb(29, 155, 240);
+}
+.box-part{
+    background-color:white;
+    padding: 55px 50px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    margin: 20px 0px;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+.box{
+    padding: 70px 20px 10px 25px;
+    
+}
+.box1{
+    padding-top: 50px;
+}
