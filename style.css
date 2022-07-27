@@ -8,6 +8,7 @@ body{
 .box-part{
     background-color:white;
     padding: 55px 50px;
+    margin:0px 0px 50px 0px;
 }
 span{
     font-size: 12px;
