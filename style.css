@@ -18,6 +18,7 @@ span{
 }
 a{
     border-bottom: 2px solid blue;
+    text-decoration: none !important;
 }
 .box{
     padding: 70px 20px 10px 25px;
